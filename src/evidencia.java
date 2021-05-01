@@ -127,7 +127,8 @@ public class evidencia {
 
          System.out.println("Ejercicio 5");
 
-
+        System.out.println("ingrese un numero entero de dos digitos: ");
+        int primo = enter.nextInt();
 
          System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
          System.out.println("*************************************************************************");
@@ -136,6 +137,9 @@ public class evidencia {
         Validar que solo reciba números de 2 dígitos.*/
 
          System.out.println("Ejercicio 6");
+
+         System.out.println("ingrese un numero entero de dos digitos: ");
+         int primo1 = enter.nextInt();
          
 
 
@@ -147,7 +151,8 @@ public class evidencia {
 
          System.out.println("Ejercicio 7");
          
-
+         System.out.println("ingrese un numero entero de dos digitos: ");
+         int multiplo = enter.nextInt();
 
          System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
          System.out.println("*************************************************************************");
