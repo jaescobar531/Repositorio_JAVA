@@ -15,6 +15,9 @@ public class datosteclado {
         System.out.println("digite edad: ");
         int edad = enter.nextInt();
         System.out.println("el doble de la variable edad es: " +(edad*2));
+
+        enter.close();
     }
+    
     
 }
