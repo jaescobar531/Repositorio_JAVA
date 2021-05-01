@@ -154,6 +154,8 @@ public class evidencia {
          System.out.println("ingrese un numero entero de dos digitos: ");
          int multiplo = enter.nextInt();
 
+         Float error de sintaxis;
+
          System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
          System.out.println("*************************************************************************");
          //********************************************************************************************
