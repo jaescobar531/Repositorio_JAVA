@@ -100,6 +100,8 @@ public class evidencia {
         valor de la moneda colombiana, luego debe elegir de 3 opciones a su criterio 
         a qué tipo de moneda lo desea convertir y mostrar el resultado final.*/
 
+        System.out.println("Ejercicio 4");
+
         System.out.println("ingrese valor en pesos colombianos: ");
         float moneda = enter.nextFloat();
         System.out.println("seleccione la moneda para realizar la conversión: 1. dolar($) 2. euro(€) 3. libra(£)");
@@ -120,8 +122,38 @@ public class evidencia {
         System.out.println("*************************************************************************");
 
          //********************************************************************************************
+        /*5.	Leer un número entero de dos dígitos menor que 30 y determinar si es primo. 
+        Validar que solo reciba números de 2 dígitos menores a 30.*/
 
+         System.out.println("Ejercicio 5");
+
+
+
+         System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
+         System.out.println("*************************************************************************");
+         //********************************************************************************************
+        /*6.	Leer un número entero de dos dígitos y determinar si sus dos dígitos son primos. 
+        Validar que solo reciba números de 2 dígitos.*/
+
+         System.out.println("Ejercicio 6");
          
+
+
+         System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
+         System.out.println("*************************************************************************");
+         //********************************************************************************************
+         /*7.	Leer un número entero de dos dígitos y determinar si un dígito es múltiplo del otro. 
+         Validar que solo reciba números de 2 dígitos.*/
+
+         System.out.println("Ejercicio 7");
+         
+
+
+         System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
+         System.out.println("*************************************************************************");
+         //********************************************************************************************
+
+
 
         enter.close();
     }
